@@ -1,5 +1,12 @@
 # success
-This desktop app gives valuable quotes and motivational
-Words on how to become rich,time managment,secrets to learning e.t.c
-Developed completely with python.
-Developed my Nengi
+A desktop app created with python to teach people 
+To become the better version of their selves in different areas
+# Features
+Teaches about becoming
+Wealthy
+Famous
+Time management
+Secrets to learning
+E.t.c
+# Authors
+Nengi Gowus
